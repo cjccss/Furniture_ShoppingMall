@@ -11,7 +11,7 @@
 기간 : 2021.04.09 ~ 2021.05.09  
 팀구성 : Java개발자 6인   
 사용기술 및 사용 툴 : Java, SQL, JSP, CSS&HTML, JavaScript, JQuery,   
-                      Apache Tomcet, Oracle, Eclipce(4.16.0), eXERD   
+                      Apache Tomcet, Oracle, Eclipce(4.16.0) 
 
 
 ## 담당기능
