@@ -1,5 +1,7 @@
 # ShoppingMall
-인테리어 가구 쇼핑몰
+인테리어 가구 쇼핑몰  
+
+![image2](https://user-images.githubusercontent.com/75620662/131481249-b86b8d3a-1408-484f-b761-53563b887939.png)
 
 ## 상세내용
 
